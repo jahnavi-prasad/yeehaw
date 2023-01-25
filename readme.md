@@ -6,12 +6,12 @@
 
 Left Arm
 - [x] Jan 8
-- [ ] Jan 9
-- [ ] Jan 17
+- [x] Jan 9
+- [x] Jan 17
 
 Stem
-- [ ] Jan 24
-- [ ] Jan 25
+- [x] Jan 24
+- [x] Jan 25
 - [ ] Jan 26
 - [ ] Jan 27
 - [ ] Jan 28
