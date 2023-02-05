@@ -12,14 +12,14 @@ Left Arm
 Stem
 - [x] Jan 24
 - [x] Jan 25
-- [ ] Jan 26
-- [ ] Jan 27
-- [ ] Jan 28
+- [x] Jan 26
+- [x] Jan 27
+- [x] Jan 28
 
 Right Arm
-- [ ] Jan 31
-- [ ] Feb 5
-- [ ] Feb 6
+- [x] Jan 31
+- [x] Feb 5
+- [x] Feb 6
 
 ## E
 
