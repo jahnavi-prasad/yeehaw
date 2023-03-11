@@ -24,21 +24,21 @@ Right Arm
 ## E
 
 Stem
-- [ ] Feb 19
-- [ ] Feb 20
-- [ ] Feb 21
-- [ ] Feb 22
-- [ ] Feb 23
-- [ ] Feb 24
-- [ ] Feb 25
+- [x] Feb 19
+- [x] Feb 20
+- [x] Feb 21
+- [x] Feb 22
+- [x] Feb 23
+- [x] Feb 24
+- [x] Feb 25
 
 Arms
-- [ ] Feb 26
-- [ ] Mar 1
-- [ ] Mar 4
-- [ ] Mar 5
-- [ ] Mar 8
-- [ ] Mar 11
+- [x] Feb 26
+- [x] Mar 1
+- [x] Mar 4
+- [x] Mar 5
+- [x] Mar 8
+- [x] Mar 11
 
 ## E
 
