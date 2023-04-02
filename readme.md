@@ -43,21 +43,21 @@ Arms
 ## E
 
 Stem
-- [ ] Mar 19
-- [ ] Mar 20
-- [ ] Mar 21
-- [ ] Mar 22
-- [ ] Mar 23
-- [ ] Mar 24
-- [ ] Mar 25
+- [x] Mar 19
+- [x] Mar 20
+- [x] Mar 21
+- [x] Mar 22
+- [x] Mar 23
+- [x] Mar 24
+- [x] Mar 25
 
 Arms
-- [ ] Mar 26
-- [ ] Mar 29
-- [ ] Apr 1
-- [ ] Apr 2
-- [ ] Apr 5
-- [ ] Apr 8
+- [x] Mar 26
+- [x] Mar 29
+- [x] Apr 1
+- [x] Apr 2
+- [x] Apr 5
+- [x] Apr 8
 
 ## H
 
