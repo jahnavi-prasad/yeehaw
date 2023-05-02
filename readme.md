@@ -62,17 +62,17 @@ Arms
 ## H
 
 Stem 1
-- [ ] Apr 16
-- [ ] Apr 17
-- [ ] Apr 18
-- [ ] Apr 19
-- [ ] Apr 20
-- [ ] Apr 21
-- [ ] Apr 22
+- [x] Apr 16
+- [x] Apr 17
+- [x] Apr 18
+- [x] Apr 19
+- [x] Apr 20
+- [x] Apr 21
+- [x] Apr 22
 
 Bridge
-- [ ] Apr 26
-- [ ] May 3
+- [x] Apr 26
+- [x] May 3
 
 Stem 2
 - [ ] May 7
