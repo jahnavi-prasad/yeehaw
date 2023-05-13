@@ -75,13 +75,13 @@ Bridge
 - [x] May 3
 
 Stem 2
-- [ ] May 7
-- [ ] May 8
-- [ ] May 9
-- [ ] May 10
-- [ ] May 11
-- [ ] May 12
-- [ ] May 13
+- [x] May 7
+- [x] May 8
+- [x] May 9
+- [x] May 10
+- [x] May 11
+- [x] May 12
+- [x] May 13
 
 ## A
 Stem 1
