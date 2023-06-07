@@ -85,18 +85,18 @@ Stem 2
 
 ## A
 Stem 1
-- [ ] May 22
-- [ ] May 23
-- [ ] May 24
-- [ ] May 25
-- [ ] May 26
-- [ ] May 27
+- [x] May 22
+- [x] May 23
+- [x] May 24
+- [x] May 25
+- [x] May 26
+- [x] May 27
 
 Bridges
-- [ ] May 28
-- [ ] May 31
-- [ ] Jun 4
-- [ ] Jun 7
+- [x] May 28
+- [x] May 31
+- [x] Jun 4
+- [x] Jun 7
 
 Stem 2
 - [ ] Jun 12
