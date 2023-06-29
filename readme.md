@@ -99,21 +99,21 @@ Bridges
 - [x] Jun 7
 
 Stem 2
-- [ ] Jun 12
-- [ ] Jun 13
-- [ ] Jun 14
-- [ ] Jun 15
-- [ ] Jun 16
-- [ ] Jun 17
+- [x] Jun 12
+- [x] Jun 13
+- [x] Jun 14
+- [x] Jun 15
+- [x] Jun 16
+- [x] Jun 17
 
 ## W
 Stem 1
-- [ ] Jun 25
-- [ ] Jun 26
-- [ ] Jun 27
-- [ ] Jun 28
-- [ ] Jun 29
-- [ ] Jun 30
+- [x] Jun 25
+- [x] Jun 26
+- [x] Jun 27
+- [x] Jun 28
+- [x] Jun 29
+- [x] Jun 30
 
 Stem 2
 - [ ] Jul 8
