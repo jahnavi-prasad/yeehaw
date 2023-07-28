@@ -116,16 +116,16 @@ Stem 1
 - [x] Jun 30
 
 Stem 2
-- [ ] Jul 8
-- [ ] Jul 12
-- [ ] Jul 13
-- [ ] Jul 14
-- [ ] Jul 22
+- [x] Jul 8
+- [x] Jul 12
+- [x] Jul 13
+- [x] Jul 14
+- [x] Jul 22
 
 Stem 3
-- [ ] Jul 23
-- [ ] Jul 24
-- [ ] Jul 25
-- [ ] Jul 26
-- [ ] Jul 27
-- [ ] Jul 28
+- [x] Jul 23
+- [x] Jul 24
+- [x] Jul 25
+- [x] Jul 26
+- [x] Jul 27
+- [x] Jul 28
